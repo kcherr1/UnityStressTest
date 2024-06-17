@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <collisions>false</collisions>
+  <scripts>true</scripts>
+  <lighting>false</lighting>
+  <shape>cube</shape>
+</Options>

@@ -1,0 +1,12 @@
+Options:
+  Collisions: False
+  Scripts: True
+  Lighting: False
+  Shape: Cube (24 verts, 12 tris)
+
+Stats:
+  fps < 70: 3,260
+  fps < 60: 4,136
+  fps < 50: 5,517
+  fps < 40: 8,981
+  fps < 30: 13,199
